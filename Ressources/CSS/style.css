@@ -1,0 +1,13 @@
+html {
+  font-family: Helvetica;
+}
+body {
+  text-align: center;
+}
+.home {
+  background-image: url("C:\Users\Nicolas\Documents\Projects\Broadway Design\Ressources\background image.png");
+}
+.home h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
