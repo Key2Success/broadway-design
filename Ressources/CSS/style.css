@@ -5,7 +5,7 @@ body {
   text-align: center;
 }
 .home {
-  background-image: url("C:\Users\Nicolas\Documents\Projects\Broadway Design\Ressources\background image.png");
+  background-image: url("../background image.png");
 }
 .home h1 {
   font-size: 70px;
