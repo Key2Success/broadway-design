@@ -10,4 +10,55 @@ body {
 .home h1 {
   font-size: 70px;
   font-weight: bold;
+  color: white
+}
+.home ul {
+  list-style: none;
+  line-height: 2;
+}
+.home li a {
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+.about h3 {
+  font-size: 32;
+  font-weight: bold;
+}
+.about h4,
+.work h4,
+.team h4,
+.contact h4 {
+  font-size: 23;
+  font-weight: bold;
+}
+.about p,
+.work p,
+.team p,
+.contact p {
+  font-size: 14;
+}
+#NY h4 {
+  font-size: 23;
+  font-weight: bold;
+  color: white;
+  background-image: url("../background image.png");
+}
+footer ul {
+  list-style: none;
+}
+footer li {
+  display: inline;
+}
+footer {
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+#copyright {
+  font-size: 11;
+}
+footer li a {
+  font-weight: bold;
+  color: white;
 }
